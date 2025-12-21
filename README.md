@@ -1,2 +1,2 @@
-# Fine-tuning-PhoBERT-for-Vietnamese-Student-Feedback-Analysis
+# Fine tuning PhoBERT for Vietnamese Student Feedback Analysis
 Personal Project
